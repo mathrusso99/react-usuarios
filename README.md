@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 <br>
 <h3>:computer: Screen</h3>
-<img src = "https://github.com/mathrusso99/conversor-de-moedas/blob/main/assets/web.png?raw=true">
+<img src = "https://github.com/mathrusso99/react-usuarios/blob/main/src/assets/Captura%20de%20Tela%20(44).png?raw=true">
+<img src = "">
 
 
 <h3> :iphone: Mobile</h3>
