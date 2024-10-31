@@ -12,7 +12,7 @@
 <br>
 <h3>:computer: Screen</h3>
 <img src = "https://github.com/mathrusso99/react-usuarios/blob/main/src/assets/Captura%20de%20Tela%20(44).png?raw=true">
-<img src = "">
+<img src = "https://github.com/mathrusso99/react-usuarios/blob/main/src/assets/Captura%20de%20Tela%20(57).png?raw=true">
 
 
 <h3> :iphone: Mobile</h3>
